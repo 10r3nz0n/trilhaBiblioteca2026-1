@@ -1,4 +1,4 @@
-# Relato do Comitê 1.1
+# Relato do Commit 1.1
 
 **Origem do registro:** relato estruturado a partir de **gravação em áudio do professor**, convertida por IA para o formato Markdown.
 
