@@ -1,7 +1,11 @@
 package com.lorenzon.biblioteca;
 
-import com.lorenzon.biblioteca.menus.MenuPrincipal;
-import com.lorenzon.biblioteca.utilitarios.*;
+import com.lorenzon.biblioteca.aplication.menus.MenuPrincipal;
+import com.lorenzon.biblioteca.controller.BibliotecaSingleton;
+import com.lorenzon.biblioteca.domain.Livro;
+import com.lorenzon.biblioteca.domain.Pessoa;
+import com.lorenzon.biblioteca.aplication.utilitarios.*;
+import com.lorenzon.biblioteca.repository.*;
 
 public class App {
 
